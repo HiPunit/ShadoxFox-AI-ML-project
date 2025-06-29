@@ -1,2 +1,3 @@
-# ShadoxFox-AI-ML-project
-Project: Boston House Price Prediction. All the files and detailed information that are required to complete the project are included for the beginner level. 
+Hi All Have the good day everyone.
+This is Punit Thawkar a  IT & Tech enthusiast presenting you project name:Boston Housing Price Prediction
+A simple, lightweight, easy to use tool to predict the price of any house depending on the location of house. 
